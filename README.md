@@ -1,10 +1,12 @@
 # robosys2024
 ロボットシステム学授業用
 
-#plusコマンド
+# plusコマンド
 ![test](https://github.com/MatsU-CIT/robosys2024/actions/workflows/test.yml/badge.svg)
 
-##必要なソフトウェア
+## 使い方
+
+## 必要なソフトウェア
 - Python
   - テスト済みバージョン: 3.7~3.10
 

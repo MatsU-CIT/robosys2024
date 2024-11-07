@@ -1,6 +1,16 @@
 # robosys2024
 ロボットシステム学授業用
 
+#plusコマンド
+![test](https://github.com/MatsU-CIT/robosys2024/actions/workflows/test.yml/badge.svg)
+
+##必要なソフトウェア
+- Python
+  - テスト済みバージョン: 3.7~3.10
+
+## テスト環境
+- Ubuntu 20.04 on Windows
+
 - このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 
 - このパッケージは，aaa由来のコード（© 2024 Yusuke Matsumoto）を利用しています．

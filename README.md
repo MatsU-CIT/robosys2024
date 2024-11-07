@@ -5,7 +5,10 @@
 ![test](https://github.com/MatsU-CIT/robosys2024/actions/workflows/test.yml/badge.svg)
 
 ## 使い方
-
+### ダウンロード
+### インストール
+### 起動手順
+### 簡単な使い方
 ## 必要なソフトウェア
 - Python
   - テスト済みバージョン: 3.7~3.10
